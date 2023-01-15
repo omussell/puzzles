@@ -1,0 +1,7 @@
+ipython
+pytest
+
+mkdocs
+mkdocs-material
+mkdocstrings
+mkdocstrings-python
